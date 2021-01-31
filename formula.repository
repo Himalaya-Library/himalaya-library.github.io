@@ -1,0 +1,9 @@
+\form#0:$\Phi(x,y,z)$
+\form#1:$I_{abc}(a,b,c)$
+\form#2:$Delta_{xyz}(x,y,z)$
+\form#3:$phi_{xyz}(x,y,z)$
+\form#4:$\sum_{n=1}^{10} n^2$
+\form#5:$\mathrm{Li}_2(x)$
+\form#6:$\mathrm{Li}_2(z)$
+\form#7:$\mathrm{Cl}_2(\theta) = \mathrm{Im}(\mathrm{Li}_2(e^{i\theta}))$
+\form#8:$\mathrm{Cl}_2(\theta)$

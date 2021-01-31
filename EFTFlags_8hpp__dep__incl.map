@@ -1,0 +1,7 @@
+<map id="/home/avoigt/packages/Himalaya/source/himalaya/mh2_eft/EFTFlags.hpp" name="/home/avoigt/packages/Himalaya/source/himalaya/mh2_eft/EFTFlags.hpp">
+<area shape="rect" id="node2" href="$HierarchyObject_8cpp.html" title="Implementation of the HierarchyObject, which contains all the calculational results. " alt="" coords="5,109,185,165"/>
+<area shape="rect" id="node3" href="$Mh2EFTCalculator_8cpp.html" title="Implementation of EFT Higgs mass calculation class. " alt="" coords="45,213,255,269"/>
+<area shape="rect" id="node4" href="$ThresholdCalculator_8cpp.html" title="Implementation of threshold corrections class to express the Higgs mass calculation in terms of SM MS..." alt="" coords="485,213,703,269"/>
+<area shape="rect" id="node5" href="$ThresholdCalculator_8hpp.html" title="Definition of threshold corrections class to express the Higgs mass calculation in terms of SM MS&#45;bar..." alt="" coords="261,109,479,165"/>
+<area shape="rect" id="node6" href="$HierarchyCalculator_8cpp.html" title="Implementation of the HierarchyCalculator. " alt="" coords="280,213,460,269"/>
+</map>
